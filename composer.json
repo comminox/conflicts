@@ -1,7 +1,7 @@
 {
   "name": "commino/conflicts",
   "type": "metapackage",
-  "description": "Shopware 6 conflicting packages",
+  "description": "Commino 6 conflicting packages",
   "license": "MIT",
   "require": {
     "commino/core": ">=6.7.2.0"
